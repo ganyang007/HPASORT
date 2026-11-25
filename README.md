@@ -10,6 +10,3 @@ CrowdCity in this study is a composite of CrowdHuman and CityPersons.
 
 Please obtain each source dataset from its original provider and follow its terms of use. This repository does not redistribute the source images.
 
-### Split manifest
-
-The list of image IDs, source datasets, and original splits is provided in [splits.csv](./splits.csv).
