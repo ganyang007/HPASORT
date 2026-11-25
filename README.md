@@ -1,10 +1,15 @@
-# HPASORT
+## CrowdCity Composite Dataset
 
-## Dataset
+CrowdCity in this study is a composite of CrowdHuman and CityPersons.
 
-The CrowdHuman dataset can be downloaded from Baidu Netdisk:
+### Download the source datasets
 
-- Download link: https://pan.baidu.com/s/1aGUUoJqLVM6V_-zXRlbrNw
-- Extraction code: `nemp`
+- CrowdHuman images and annotations: https://www.crowdhuman.org/download
+- CityPersons annotations: https://github.com/cvgroup-njust/CityPersons
+- Cityscapes images: https://www.cityscapes-dataset.com/
 
-The dataset is hosted externally and is not included in this repository. Please refer to the original dataset terms and license before use.
+Please obtain each source dataset from its original provider and follow its terms of use. This repository does not redistribute the source images.
+
+### Split manifest
+
+The list of image IDs, source datasets, and original splits is provided in [splits.csv](./splits.csv).
