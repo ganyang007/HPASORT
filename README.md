@@ -10,3 +10,7 @@ CrowdCity in this study is a composite of CrowdHuman and CityPersons.
 
 Please obtain each source dataset from its original provider and follow its terms of use. This repository does not redistribute the source images.
 
+### CrowdCity package
+
+- Baidu Netdisk: https://pan.baidu.com/s/1GdLr50BJY_z80QkLFJj3PQ
+- Extraction code: `j5mc`
